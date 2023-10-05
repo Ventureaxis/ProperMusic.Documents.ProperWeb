@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'ProperMusic ProperWeb 2.0',
+  title: 'ProperWeb 2.0 Documentation',
   tagline: 'Music done Proper-ly',
   favicon: 'img/favicon.ico',
 
@@ -64,7 +64,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'ProperWeb 2.0 Documentation',
+        title: 'ProperWeb 2.0',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
