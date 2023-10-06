@@ -32,28 +32,29 @@ const config = {
     locales: ['en'],
   },
 
-  plugins: [
-    [
-      '@docusaurus/plugin-content-blog',
-      {
-        /**
-         * Required for any multi-instance plugin
-         */
-        id: 'release-notes',
-        /**
-         * URL route for the blog section of your site.
-         * *DO NOT* include a trailing slash.
-         */
-        routeBasePath: 'release-notes',
-        /**
-         * Path to data on filesystem relative to site dir.
-         */
-        path: './release-notes',
-        blogSidebarCount: 'ALL',
-        blogSidebarTitle: 'Release Notes'
-      },
-    ],
-  ],
+  // EXTRA Blog if needed
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-content-blog',
+  //     {
+  //       /**
+  //        * Required for any multi-instance plugin
+  //        */
+  //       id: 'release-notes',
+  //       /**
+  //        * URL route for the blog section of your site.
+  //        * *DO NOT* include a trailing slash.
+  //        */
+  //       routeBasePath: 'release-notes',
+  //       /**
+  //        * Path to data on filesystem relative to site dir.
+  //        */
+  //       path: './release-notes',
+  //       blogSidebarCount: 'ALL',
+  //       blogSidebarTitle: 'Release Notes'
+  //     },
+  //   ],
+  // ],
 
   presets: [
     [
@@ -67,7 +68,12 @@ const config = {
           //editUrl:
             //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        // Default Blog Overrides
         blog: {
+          path: './release-notes',
+          routeBasePath: 'release-notes',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Release Notes',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -99,7 +105,8 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // Override default blog
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/release-notes', label: 'Release Notes', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
