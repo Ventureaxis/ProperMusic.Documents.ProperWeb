@@ -32,6 +32,29 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-blog',
+      {
+        /**
+         * Required for any multi-instance plugin
+         */
+        id: 'release-notes',
+        /**
+         * URL route for the blog section of your site.
+         * *DO NOT* include a trailing slash.
+         */
+        routeBasePath: 'release-notes',
+        /**
+         * Path to data on filesystem relative to site dir.
+         */
+        path: './release-notes',
+        blogSidebarCount: 'ALL',
+        blogSidebarTitle: 'Release Notes'
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
@@ -74,9 +97,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Docs',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/release-notes', label: 'Release Notes', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
