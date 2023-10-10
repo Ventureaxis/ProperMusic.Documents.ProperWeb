@@ -62,7 +62,10 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+        // Default Docs Overrides
+			  path: './documents',
+        routeBasePath: 'documents',
+        sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
@@ -70,10 +73,10 @@ const config = {
         },
         // Default Blog Overrides
         blog: {
-          path: './release-notes',
-          routeBasePath: 'release-notes',
+			    path: './releases',
+          routeBasePath: 'releases',
           blogSidebarCount: 'ALL',
-          blogSidebarTitle: 'Release Notes',
+          blogSidebarTitle: 'Releases',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -103,11 +106,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Docs',
+            label: 'Documents',
           },
           // Override default blog
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/release-notes', label: 'Release Notes', position: 'left'},
+          {to: '/releases', label: 'Releases', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
