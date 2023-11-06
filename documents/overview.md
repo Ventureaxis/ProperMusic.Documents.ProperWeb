@@ -1,8 +1,8 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Tutorial Intro
+# ProperWeb Overview
 
 Let's discover **Docusaurus ProperWeb 2.0**.
 
