@@ -32,19 +32,51 @@ const config = {
     locales: ['en'],
   },
 
+  // EXTRA Blog if needed
+  // plugins: [
+  //   [
+  //     '@docusaurus/plugin-content-blog',
+  //     {
+  //       /**
+  //        * Required for any multi-instance plugin
+  //        */
+  //       id: 'release-notes',
+  //       /**
+  //        * URL route for the blog section of your site.
+  //        * *DO NOT* include a trailing slash.
+  //        */
+  //       routeBasePath: 'release-notes',
+  //       /**
+  //        * Path to data on filesystem relative to site dir.
+  //        */
+  //       path: './release-notes',
+  //       blogSidebarCount: 'ALL',
+  //       blogSidebarTitle: 'Release Notes'
+  //     },
+  //   ],
+  // ],
+
   presets: [
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
+        // Default Docs Overrides
+			  path: './documents',
+        routeBasePath: 'documents',
+        sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           //editUrl:
             //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
+        // Default Blog Overrides
         blog: {
+			    path: './releases',
+          routeBasePath: 'releases',
+          blogSidebarCount: 'ALL',
+          blogSidebarTitle: 'Releases',
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -74,9 +106,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documents',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // Override default blog
+          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/releases', label: 'Releases', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
