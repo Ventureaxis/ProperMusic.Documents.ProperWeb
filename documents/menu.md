@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Navigation
+# Menu
 
 TODO Walkthrough the side menu...
 
