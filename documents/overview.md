@@ -2,7 +2,7 @@
 sidebar_position: 0
 ---
 
-# ProperWeb Overview
+# Overview
 
 Let's discover **Docusaurus ProperWeb 2.0**.
 
