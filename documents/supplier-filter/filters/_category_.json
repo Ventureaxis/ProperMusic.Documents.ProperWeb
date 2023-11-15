@@ -1,0 +1,8 @@
+{
+  "label": "Filter Types",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Types of filter supported by the Supplier Filter Switcher."
+  }
+}
