@@ -63,7 +63,7 @@ On the Product dashboard you can search by fields:
 
 You can also filter by [Product Statuses](#product-statuses) and whether or not a Product has completed or not via the "Show Completed Products" / "Hide Completed Products" button. The reset button will clear the values in the text search fields.
 
-The current value of your search preferences will be saved to your browser for when you log back in.
+The current value of your text search fields will be saved to your browser for when you log back in.
 
 ## Product Statuses {#product-statuses}
 There are 8 Product statuses within ProperWeb which are:
