@@ -6,11 +6,9 @@ import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 
 # 4 - Artwork, Audio & Video
-In this part of the form you'll enter the dimensions, pricing, country of origin and whether or not the Product has Explicit Lyrics.
+In this part of the form you'll add artwork urls/images, audio urls and video urls
 
 ![Product Editor Artwork Video Audio](../../../static/img/pages/products/editor/pw_product_editor_media.png)
-
-third party artwork is optional
 
 ## Required Fields
 <Tabs groupId="supplier-class">
