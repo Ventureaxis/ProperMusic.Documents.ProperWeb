@@ -21,10 +21,46 @@ Some **fields** have different validation depending on the Supplier class select
 <Tabs groupId="supplier-class">
   <TabItem value="standard" label="Standard">
     <ul>
-        <li><strong>Sku</strong> - todo</li>
-        <li><strong>Barcode</strong> - todo</li>
-        <li><strong>Full Artist</strong> - todo</li>
-        <li><strong>Full Title</strong> - todo</li>
+        <li><strong>Sku</strong> - a unique identifier
+			<ul>
+				<li>Maximum of 31 characters</li>
+				<li>Only uppercase characters, numbers, dashes(-) and underscores (_) are allowed</li>
+				<li>Needs to be verified by Basil</li>
+			</ul>
+		</li>
+        <li><strong>Barcode</strong> - a unique identifier
+			<ul>
+				<li>Needs to be in the right format</li>
+				<li>13 Characters for EAN, 12 Characters for UPC</li>
+				<li>Needs to be verified by Basil</li>
+			</ul>
+		</li>
+        <li><strong>Full Artist</strong> - full Artist name
+			<ul>
+				<li>Max length: 300 characters</li>
+				<li>Auto fills Artist field with uppercase version when input is changed</li>
+			</ul>
+		</li>
+        <li><strong>Full Title</strong> - full Title name
+			<ul>
+				<li>Max length: 300 characters</li>
+				<li>Auto fills Title field with uppercase version when input is changed</li>
+			</ul>
+		</li>
+		<li><strong>Artist</strong> - the Artist short text
+            <ul>
+                <li>Max length: 30 characters</li>
+                <li>Input is automatically converted into uppercase</li>
+                <li>Autofilled when typing in Full Artist field</li>
+            </ul>
+        </li>
+		<li><strong>Title</strong> - the Title short text
+			<ul>
+                <li>Max length: 30 characters</li>
+                <li>Input is automatically converted into uppercase</li>
+                <li>Autofilled when typing in Full Title field</li>
+            </ul>
+		</li>
         <li><strong>Release Date</strong> - select from the date picker an Release date</li>
         <li><strong>Primary Genre</strong> - select from the dropdown or search from a list of primary genre codes</li>
         <li><strong>Format</strong> - select from the dropdown or search from a list of format codes, changing to a DVD format will display the DVD Age Rating and DVD Region fields</li>
@@ -34,10 +70,46 @@ Some **fields** have different validation depending on the Supplier class select
   </TabItem>
   <TabItem value="third-party" label="Third Party">
     <ul>
-        <li>Sku - todo</li>
-        <li>Barcode - todo</li>
-        <li>Full Artist - todo</li>
-        <li>Full Title - todo</li>
+        <li><strong>Sku</strong> - a unique identifier
+			<ul>
+				<li>Maximum of 31 characters</li>
+				<li>Only uppercase characters, numbers, dashes(-) and underscores (_) are allowed</li>
+				<li>Needs to be verified by Basil</li>
+			</ul>
+		</li>
+        <li><strong>Barcode</strong> - a unique identifier
+			<ul>
+				<li>Needs to be in the right format</li>
+				<li>13 Characters for EAN, 12 Characters for UPC</li>
+				<li>Needs to be verified by Basil</li>
+			</ul>
+		</li>
+        <li><strong>Full Artist</strong> - full Artist name
+			<ul>
+				<li>Max length: 300 characters</li>
+				<li>Auto fills Artist field with uppercase version when input is changed</li>
+			</ul>
+		</li>
+        <li><strong>Full Title</strong> - full Title name
+			<ul>
+				<li>Max length: 300 characters</li>
+				<li>Auto fills Title field with uppercase version when input is changed</li>
+			</ul>
+		</li>
+		<li><strong>Artist</strong> - the Artist short text
+            <ul>
+                <li>Max length: 30 characters</li>
+                <li>Input is automatically converted into uppercase</li>
+                <li>Autofilled when typing in Full Artist field</li>
+            </ul>
+        </li>
+		<li><strong>Title</strong> - the Title short text
+			<ul>
+                <li>Max length: 30 characters</li>
+                <li>Input is automatically converted into uppercase</li>
+                <li>Autofilled when typing in Full Title field</li>
+            </ul>
+		</li>
         <li><strong>Release Date</strong> - select from the date picker an Release date</li>
         <li>Format - select from the dropdown or search from a list of format codes, changing to a DVD format will display the DVD Age Rating and DVD Region fields</li>
         <li>Form - select from the dropdown or search from a list of form codes</li>
@@ -51,14 +123,6 @@ Some **fields** have different validation depending on the Supplier class select
 <Tabs groupId="supplier-class">
   <TabItem value="standard" label="Standard">
     <ul>
-        <li><strong>Artist</strong> - the Artist short text
-            <ul>
-                <li>Must be in capitals</li>
-                <li>Max length: 30 characters</li>
-                <li>Input is automatically converted into uppercase</li>
-                <li>Autofilled when typing in Full Artist field</li>
-            </ul>
-        </li>
         <li><strong>Embargo Date</strong> - select from the date picker an Embargo date</li>
         <li><strong>Secondary Genre</strong> - select from the dropdown or search from a list of secondary genre codes</li>
         <li><strong>DVD Age Rating (DVD Formats Only)</strong> - select from the dropdown or search from a list of DVD Age Rating codes</li>
@@ -69,7 +133,6 @@ Some **fields** have different validation depending on the Supplier class select
     <ul>
         <li><strong>Artist</strong> - the Artist short text
             <ul>
-                <li>Must be in capitals</li>
                 <li>Max length: 30 characters</li>
                 <li>Input is automatically converted into uppercase</li>
                 <li>Autofilled when typing in Full Artist field</li>
