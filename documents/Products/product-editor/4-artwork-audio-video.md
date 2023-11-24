@@ -10,6 +10,12 @@ In this part of the form you'll add artwork urls/images, audio urls and video ur
 
 ![Product Editor Artwork Video Audio](../../../static/img/pages/products/editor/pw_product_editor_media.png)
 
+:::info
+
+Some **fields** have different validation depending on the Supplier class selected when creating a Product, see below.
+
+:::
+
 ## Required Fields
 <Tabs groupId="supplier-class">
 	<TabItem value="standard" label="Standard">
