@@ -10,6 +10,12 @@ In this part of the form you'll enter any extra fields that don't fit in the oth
 
 ![Product Editor Extra Information](../../../static/img/pages/products/editor/pw_product_editor_extra_information.png)
 
+:::info
+
+Some **fields** have different validation depending on the Supplier class selected when creating a Product, see below.
+
+:::
+
 ## Required Fields
 <Tabs groupId="supplier-class">
 	<TabItem value="standard" label="Standard">
