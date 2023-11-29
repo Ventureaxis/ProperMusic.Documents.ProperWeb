@@ -16,7 +16,6 @@ See below for the current listing of menu items/features:
 - Products (sub menu)
 	- Dashboard - Product Dashboard for viewing and managing products within ProperWeb
 	- Bulk Uploads - Dashboard for viewing/uploading bulk products
-	- Product Importer - Browser for importing products into ProperWeb from Basil
 - Reports - Access to the Supplier Stock report email trigger
 - Admin (sub menu)
 	- Users - dashboard for viewing and managing users in the System

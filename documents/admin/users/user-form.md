@@ -2,10 +2,19 @@
 sidebar_position: 1
 ---
 
-# Creating a User
+# User Form
+
+## Create Mode
 ![Admin Users Create Form](../../../static/img/pages/admin/users/pw__admin_users_create_user_form.png)
 
 To create a user, fill out the form with the required fields then click the "Register" button. Users will be sent an activation email where they can follow a link to create themselves a password and login to the system for the first time.
+
+## Edit Mode
+![Admin Users Edit Form](../../../static/img/pages/admin/users/pw__admin_users_edit_user_form.png)
+
+When editing a user, you can access all of the same fields as create mode but with the addition of extra controls at the top of the page for:
+- User Enabled - toggle a user's active state (prevents them from logging in)
+- Resend Activation Email - can resend an activation email to the user's account if they haven't yet activated it
 
 ## Required Fields
 - Email Address - used for login and sending email notifications

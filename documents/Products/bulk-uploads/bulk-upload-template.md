@@ -23,7 +23,7 @@ This is the main sheet for the product data.
 
 #### Text Columns
 These columns are simple text columns:
-- Product Sku
+- Product Catalogue Number
 - Label
 - Sub Label
 - Product Barcode
@@ -73,24 +73,24 @@ These fields need to refrence the codes in their respective sheets (e.g. Product
 - Country of Origin
 
 ### Product Artwork 
-Product Sku column must reference an existing product sku in the main product sheet.
+Product Catalogue Number column must reference an existing product catalogue Number in the main product sheet.
 
 ![Product Bulk Upload Template Artwork](../../../static/img/pages/products/bulk-uploads/pw_products_bulk_upload_template_artwork.png)
 
 
 ### Product Video
-Product Sku column must reference an existing product sku in the main product sheet.
+Product Catalogue Number column must reference an existing product catalogue Number in the main product sheet.
 
 ![Product Bulk Upload Template Video](../../../static/img/pages/products/bulk-uploads/pw_products_bulk_upload_template_video.png)
 
 ### Product Tracks
-Product Sku column must reference an existing product sku in the main product sheet.
+Product Catalogue Number column must reference an existing product catalogue Number in the main product sheet.
 
 ![Product Bulk Upload Template Tracks](../../../static/img/pages/products/bulk-uploads/pw_products_bulk_upload_template_track_listing.png)
 
 
 ### Product Track Contributors
-- Product Sku column must reference an existing product sku in the main product sheet.
+- Product Catalogue Number column must reference an existing product catalogue Number in the main product sheet.
 - Index columns (Disk No, Side No, Track No) must reference an existing track the Product Track sheet.
 
 ![Product Bulk Upload Template Track Contributors](../../../static/img/pages/products/bulk-uploads/pw_products_bulk_upload_template_track_contributors.png)

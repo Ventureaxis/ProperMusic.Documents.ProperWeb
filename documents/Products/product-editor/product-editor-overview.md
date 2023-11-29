@@ -18,15 +18,15 @@ In Edit mode, the user will be greeted with this screen:
 
 When in edit mode, depending on the Product state, the header will appear with:
 
-- Just the Sku title
+- Just the Catalogue Number title
 
 ![Product Editor Header Just Title](../../../static/img/pages/products/editor/pw_product_editor_header_just_title.png)
 
-- The Sku title and the "DRAFT" Bubble (When a Product is Draft but not uploaded)
+- The Catalogue Number title and the "DRAFT" Bubble (When a Product is Draft but not uploaded)
 
 ![Product Editor Header Draft Bubble](../../../static/img/pages/products/editor/pw_product_editor_header_draft_bubble.png)
 
-- The Sku title with the "UPLOADED - CANNOT EDIT" (When a Product has been uploaded to basil)
+- The Catalogue Number title with the "UPLOADED - CANNOT EDIT" (When a Product has been uploaded to basil)
 
 ![Product Editor Header Uploaded Bubble](../../../static/img/pages/products/editor/pw_product_editor_header_uploaded_bubble.png)
 

@@ -19,7 +19,7 @@ From the details page you can:
 ![Product Search](../../../static/img/pages/products/pw_products_product_search.png)
 
 On the Product dashboard you can search by fields:
-- Sku
+- Catalogue Number (Cat Num)
 - Barcode
 - Title 
 - Artist

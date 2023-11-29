@@ -21,7 +21,7 @@ Some **fields** have different validation depending on the Supplier class select
 <Tabs groupId="supplier-class">
   <TabItem value="standard" label="Standard">
     <ul>
-        <li><strong>Sku</strong> - a unique identifier
+        <li><strong>Catalogue Number</strong> - a unique identifier
 			<ul>
 				<li>Maximum of 31 characters</li>
 				<li>Only uppercase characters, numbers, dashes(-) and underscores (_) are allowed</li>
@@ -70,7 +70,7 @@ Some **fields** have different validation depending on the Supplier class select
   </TabItem>
   <TabItem value="third-party" label="Third Party">
     <ul>
-        <li><strong>Sku</strong> - a unique identifier
+        <li><strong>Catalogue Number</strong> - a unique identifier
 			<ul>
 				<li>Maximum of 31 characters</li>
 				<li>Only uppercase characters, numbers, dashes(-) and underscores (_) are allowed</li>
@@ -148,6 +148,6 @@ Some **fields** have different validation depending on the Supplier class select
 </Tabs>
 
 ## Basil Validation Widgets
-The Sku and barcode fields have widgets next to them which allow the checking of inputs before the product is saved to ProperWeb. This allows you to check whether the Sku or Barcode is valid and is available for use within the Basil system before attempting to upload it. The widgets will perform a check each time the input changes provided local validation passes first (e.g correct length and format).
+The catalogue number and barcode fields have widgets next to them which allow the checking of inputs before the product is saved to ProperWeb. This allows you to check whether the Catalogue Number or Barcode is valid and is available for use within the Basil system before attempting to upload it. The widgets will perform a check each time the input changes provided local validation passes first (e.g correct length and format).
 
 ![Product Editor Basil Validate Field](../../../static/img/pages/products/editor/pw_product_editor_basil_validate_field.png)

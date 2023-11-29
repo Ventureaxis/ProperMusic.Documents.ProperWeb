@@ -55,7 +55,7 @@ This action will delete the selected Product from ProperWeb (only available when
 ![Product Search](../../static/img/pages/products/pw_products_product_search.png)
 
 On the Product dashboard you can search by fields:
-- Sku
+- Catalogue Number (Cat Num)
 - Barcode
 - Title 
 - Artist
