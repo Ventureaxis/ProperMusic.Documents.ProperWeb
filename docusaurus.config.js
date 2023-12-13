@@ -98,8 +98,8 @@ const config = {
       navbar: {
         title: 'ProperWeb 2.0',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Proper Music',
+          src: 'img/logo.png',
         },
         items: [
           {
