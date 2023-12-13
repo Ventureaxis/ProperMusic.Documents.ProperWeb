@@ -111,19 +111,19 @@ const config = {
           // Override default blog
           // {to: '/blog', label: 'Blog', position: 'left'},
           {to: '/releases', label: 'Releases', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/facebook/docusaurus',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Community',
-            items: [
+        //   {
+        //     title: 'Community',
+        //     items: [
         //      {
         //       label: 'Stack Overflow',
         //        href: 'https://stackoverflow.com/questions/tagged/docusaurus',
@@ -136,17 +136,17 @@ const config = {
         //        label: 'Twitter',
         //        href: 'https://twitter.com/docusaurus',
         //      },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
+        //     ],
+        //   },
+        //   {
+        //     title: 'More',
+        //     items: [
+        //       {
+        //         label: 'GitHub',
+        //         href: 'https://github.com/facebook/docusaurus',
+        //       },
+        //     ],
+        //   },
         ],
         copyright: `Copyright © ${new Date().getFullYear()} Ventureaxis on behalf of Proper Music Group Ltd. Built with Docusaurus.`,
       },
