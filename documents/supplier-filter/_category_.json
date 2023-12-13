@@ -1,0 +1,8 @@
+{
+  "label": "Supplier Filter",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Filter by suppliers to limit content in ProperWeb."
+  }
+}

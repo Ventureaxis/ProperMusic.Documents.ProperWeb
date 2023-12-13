@@ -1,0 +1,8 @@
+{
+  "label": "Account Settings",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "In this section, you can alter aspects of your user account."
+  }
+}

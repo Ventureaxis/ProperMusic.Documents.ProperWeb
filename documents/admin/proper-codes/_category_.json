@@ -1,0 +1,8 @@
+{
+  "label": "Proper Codes",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Browse and manage Proper Codes imported via API into ProperWeb."
+  }
+}
