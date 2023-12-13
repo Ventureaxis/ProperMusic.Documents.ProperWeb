@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkpropermusic_documents_properweb=self.webpackChunkpropermusic_documents_properweb||[]).push([[2317],{2353:e=>{e.exports=JSON.parse('{"permalink":"/releases","page":1,"postsPerPage":10,"totalPages":2,"totalCount":20,"nextPage":"/releases/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
