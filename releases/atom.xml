@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://your-docusaurus-test-site.com/releases</id>
+    <title>ProperWeb 2.0 Documentation Blog</title>
+    <updated>2023-12-05T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://your-docusaurus-test-site.com/releases"/>
+    <subtitle>ProperWeb 2.0 Documentation Blog</subtitle>
+    <icon>https://your-docusaurus-test-site.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[v2.4.1.6]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-1-6</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-1-6"/>
+        <updated>2023-12-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fix]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fix saving of edited user when they previously had no suppliers assigned</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.1.5]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-1-5</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-1-5"/>
+        <updated>2023-11-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fix]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fix leftover expired notifications being sent out to deleted users</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.1.4]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-1-4</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-1-4"/>
+        <updated>2023-11-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fix]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fix expired notifications being sent out when users had notification type email setting disabled</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.1.3]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-1-3</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-1-3"/>
+        <updated>2023-11-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[✏️ Change Request]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-request">✏️ Change Request<a href="#️-change-request" class="hash-link" aria-label="Direct link to ✏️ Change Request" title="Direct link to ✏️ Change Request">​</a></h3><ul><li>Add extra promo image to heartbeat promo popup slideshow</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.1.2]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-1-2</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-1-2"/>
+        <updated>2023-11-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fix]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fix Heartbeat dialog popup scrollbars on 1080 screens</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.1.1]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-1-1</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-1-1"/>
+        <updated>2023-11-03T15:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fixes]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fix Heartbeat dialog popup scrollbars on 1080 screens</li><li>Fix Heartbeat dialog carousel arrows not displaying</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.1.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-1-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-1-0"/>
+        <updated>2023-11-03T12:47:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Feature]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-feature">🚀 New Feature<a href="#-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h3><ul><li>Heartbeat popup and menu item</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-request">✏️ Change Request<a href="#️-change-request" class="hash-link" aria-label="Direct link to ✏️ Change Request" title="Direct link to ✏️ Change Request">​</a></h3><ul><li>Removed Release Notes from Home page</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancements">✨ Enhancements<a href="#-enhancements" class="hash-link" aria-label="Direct link to ✨ Enhancements" title="Direct link to ✨ Enhancements">​</a></h3><ul><li>Added version check/auto-update</li><li>Updated side menu styling</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Added User Preference Flags to support Heartbeat popup and future work</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fix incorrect routing on reporting dashboard</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.0.3]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-0-3</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-0-3"/>
+        <updated>2023-10-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fixes]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fix being unable to add product track contributors</li><li>Fix being unable to delete product track contributors</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.0.2]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-0-2</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-0-2"/>
+        <updated>2023-10-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[✨ Enhancement]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancement">✨ Enhancement<a href="#-enhancement" class="hash-link" aria-label="Direct link to ✨ Enhancement" title="Direct link to ✨ Enhancement">​</a></h3><ul><li>Removed redundant username field from Admin User Dashboard/User details views</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fix uppercase file extensions are now allowed in artwork uploads (e.g. .JPG, .JPEG)</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.0.1]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-0-1</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-0-1"/>
+        <updated>2023-10-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fixes]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fix routing of user account pages when user is logged out</li><li>Fix user dashboard "Send Password reset email" action button not appearing correctly</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Frontend compiler update</li><li>Frontend package imports refactor</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.4.0.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-4-0-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-4-0-0"/>
+        <updated>2023-10-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Feature]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-feature">🚀 New Feature<a href="#-new-feature" class="hash-link" aria-label="Direct link to 🚀 New Feature" title="Direct link to 🚀 New Feature">​</a></h3><ul><li>User Notifications added (App/Email) - users can get notifications for:<ul><li>Product Comments Added</li><li>Product has successfully completed</li><li>Product is ready for approval (Admin only)</li><li>Product has been approved (Supplier Only)</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-requests">✏️ Change Requests<a href="#️-change-requests" class="hash-link" aria-label="Direct link to ✏️ Change Requests" title="Direct link to ✏️ Change Requests">​</a></h3><ul><li>Product Track listing now mandatory for Standard Suppliers</li><li>Increased frequency of Supplier/Label background updates</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancements">✨ Enhancements<a href="#-enhancements" class="hash-link" aria-label="Direct link to ✨ Enhancements" title="Direct link to ✨ Enhancements">​</a></h3><ul><li>Old "Notifications" renamed to "Announcements"</li><li>Update to the user account page layout</li><li>Add user display name to side menu</li><li>Added right click action context menus to:<ul><li>Product Dashboard</li><li>Bulk Upload Dashboard</li><li>Bulk Upload Details</li><li>Users Dashboard</li></ul></li><li>Added Supplier code to Supplier Switcher Menu button to increase readability</li><li>Add Currency to Admin Supplier Dashboard</li><li>Background jobs added for auto fetching latest codes for: <ul><li>Countries</li><li>Product Formats</li><li>Product Genres</li><li>Product Forms</li><li>Product Packages</li></ul></li><li>Added manual triggers for Admin users to fetch latest codes for: <ul><li>Countries</li><li>Poduct Formats</li><li>Product Genres</li><li>Product Forms</li><li>Product Packages</li><li>DVD Age Ratings</li><li>DVD Regions</li></ul></li><li>Admin users can now double click to edit on User Dashboard</li><li>Updated Forgotten Password flow so users can only request a link once per page load</li><li>Right click context menus added to the Product/Bulk upload and User Dashboard table rows</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fix date time labels having incorrect conversion</li><li>Fix the ability to re-order track listings using drag and drop</li><li>Fix track listing incorrect order on Firefox</li><li>Other internal bug fixes</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Frontend framework version upgrade</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.3.3.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-3-3-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-3-3-0"/>
+        <updated>2023-04-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[✨ Enhancements]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancements">✨ Enhancements<a href="#-enhancements" class="hash-link" aria-label="Direct link to ✨ Enhancements" title="Direct link to ✨ Enhancements">​</a></h3><ul><li>Improved performance of login/logout process</li><li>Improved performance of user dashboard</li><li>Added more audit entries for basil service exceptions</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-request">✏️ Change Request<a href="#️-change-request" class="hash-link" aria-label="Direct link to ✏️ Change Request" title="Direct link to ✏️ Change Request">​</a></h3><ul><li>Updated automatic triggers frequency for basil field validity for product sku and barcode</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fixed an issue where general users could accidentally remove admin comments from view</li><li>Fixed an issue with updating existing user suppliers via bulk user importer</li><li>Fixed an issue with some users being unable to be deleted</li><li>Fixed an issue with whitespace characters in product barcode column preventing bulk product upload from template</li><li>Other minor bug fixes</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.3.2.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-3-2-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-3-2-0"/>
+        <updated>2023-03-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Features]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🚀 New Features<a href="#-new-features" class="hash-link" aria-label="Direct link to 🚀 New Features" title="Direct link to 🚀 New Features">​</a></h3><ul><li>Added ability to have non-consecutive tracks when product is primary genre 'Classical'</li><li>Addition of controls to check validity and whether or not a field value is in use in Basil for product details fields SKU and Barcode, triggers on load and field input change</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancements">✨ Enhancements<a href="#-enhancements" class="hash-link" aria-label="Direct link to ✨ Enhancements" title="Direct link to ✨ Enhancements">​</a></h3><ul><li>Product prices are now limited to/displayed as 2 decimal places</li><li>Extend product track duration to support hours</li><li>Stricter input validation for product track duration on product details</li><li>Validation messages for product track duration now include disk/side/track no</li><li>Newly downloaded bulk product templates will prevent auto number formatting on cell input for the product track duration column</li><li>Product details labels now order by label name ascending order</li><li>Add product upload clean-up methods and extra logging when errors caught during upload process</li><li>Small layout change and extra instructions and user guide buttons added to home page</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fixed display bug that caused side menu dropdown icons to disappear after product upload results dialog was shown</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.3.1.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-3-1-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-3-1-0"/>
+        <updated>2023-02-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Features]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🚀 New Features<a href="#-new-features" class="hash-link" aria-label="Direct link to 🚀 New Features" title="Direct link to 🚀 New Features">​</a></h3><ul><li>Added basic search to the following pages:<ul><li>Countries Dashboard</li><li>Formats Dashboard</li><li>Genres Dashboard</li><li>Forms Dashboard</li><li>Packages Dashboard</li><li>Suppliers Dashboard</li><li>Labels Dashboard</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-requests">✏️ Change Requests<a href="#️-change-requests" class="hash-link" aria-label="Direct link to ✏️ Change Requests" title="Direct link to ✏️ Change Requests">​</a></h3><ul><li>Disabled the ability to create, edit, delete and bulk import the following:<ul><li>Countries</li><li>DVD Regions</li><li>DVD Age Ratings</li></ul></li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fix pagination issue with user search</li><li>Fix some product info missing from bulk product upload redownload</li><li>Fix products being assigned to incorrect label on bulk import, now has to match either full label code or full label name</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.3.0.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-3-0-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-3-0-0"/>
+        <updated>2023-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Features]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🚀 New Features<a href="#-new-features" class="hash-link" aria-label="Direct link to 🚀 New Features" title="Direct link to 🚀 New Features">​</a></h3><ul><li>Automated updates of basil suppliers/labels and links</li><li>Manual trigger added on supplier dashboard for the update of basil suppliers/labels and links</li><li>DVD Age Rating and Region fields added to Bulk Product Importer</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancements">✨ Enhancements<a href="#-enhancements" class="hash-link" aria-label="Direct link to ✨ Enhancements" title="Direct link to ✨ Enhancements">​</a></h3><ul><li>User details save button moved into sticky footer so it can always be seen without scrolling</li><li>Azure Application Insights connection for better monitoring and log tracing</li><li>Additional logging added around product upload and response</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fixed an issue with the DVD fields being blank when part of a product upload</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.2.1.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-2-1-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-2-1-0"/>
+        <updated>2023-02-02T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Features]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🚀 New Features<a href="#-new-features" class="hash-link" aria-label="Direct link to 🚀 New Features" title="Direct link to 🚀 New Features">​</a></h3><ul><li>Addition of "Reports" section for all users</li><li>Added Supplier Stock Report email trigger to Reports section</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Refactor saving of Audit Entries</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.2.0.1]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-2-0-1</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-2-0-1"/>
+        <updated>2023-01-27T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🐛 Bug Fix]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Fix bulk upload templates and examples not downloading</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.2.0.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-2-0-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-2-0-0"/>
+        <updated>2023-01-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[🚀 New Features]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🚀 New Features<a href="#-new-features" class="hash-link" aria-label="Direct link to 🚀 New Features" title="Direct link to 🚀 New Features">​</a></h3><ul><li>Add My Suppliers option to Supplier Selector Dialog</li><li>Add Admin sections for DVD Age Rating and DVD Regions</li><li>Add search dialogs/dropdowns for DVD Age Rating and DVD Region fields on product details</li><li>Add Supplier column to user dashboard, displaying supplier code or button to display assigned suppliers depending on the number assigned</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancements">✨ Enhancements<a href="#-enhancements" class="hash-link" aria-label="Direct link to ✨ Enhancements" title="Direct link to ✨ Enhancements">​</a></h3><ul><li>Add additional logging</li><li>Add Basil Errors/Warnings to a Products admin comments after Basil Upload attempt</li><li>Addition of product statuses "Uploaded with Warnings" and "Failed to Upload"</li><li>Add logout action dialog spinner</li><li>Add product details loading spinner</li><li>Add product saving changes action dialog spinner</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fix for preventing products being created multiple times with the same button click</li><li>Fix "A token must be provided." message appearing after session started from successful Password Reset</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Upgrade backend to .NET 7</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.1.3.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-1-3-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-1-3-0"/>
+        <updated>2023-01-09T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[✨ Enchancements]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enchancements">✨ Enchancements<a href="#-enchancements" class="hash-link" aria-label="Direct link to ✨ Enchancements" title="Direct link to ✨ Enchancements">​</a></h3><ul><li>"Has Exclusion Settings" flag column added to product dashboard for all users</li><li>"Resend Activation Email" action added to user dashboard</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Un-activated users can no longer request password resets</li><li>Fix for track validator rule preventing products being approved</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2.1.2.0]]></title>
+        <id>https://your-docusaurus-test-site.com/releases/2-1-2-0</id>
+        <link href="https://your-docusaurus-test-site.com/releases/2-1-2-0"/>
+        <updated>2023-01-04T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[✏️ Change Requests]]></summary>
+        <content type="html"><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-requests">✏️ Change Requests<a href="#️-change-requests" class="hash-link" aria-label="Direct link to ✏️ Change Requests" title="Direct link to ✏️ Change Requests">​</a></h3><ul><li>Newly created users now have 30 days to activate their account instead of 1</li><li>Removed mandatory minimum value rule for HMV Price</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fixed issue with supplier selector after admin updating their own assigned suppliers</li><li>Fixed issue with standard validation being applied when editing a 3rd party suppliers product as an admin with no suppliers</li><li>Fix admin navigation for formats</li><li>Prevent multiple notification creation requests for the same notification</li><li>Fixed style issue with button on help dialog</li></ul>]]></content>
+        <author>
+            <name>Venture Axis</name>
+            <uri>https://www.ventureaxis.com/</uri>
+        </author>
+    </entry>
+</feed>
