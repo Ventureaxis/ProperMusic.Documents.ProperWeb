@@ -61,11 +61,16 @@ On the Product dashboard you can search by fields:
 - Artist
 - Format
 
-You can also filter by [Product Statuses](#product-statuses) and whether or not a Product has completed or not via the "Show Completed Products" / "Hide Completed Products" button. The reset button will clear the values in the text search fields.
+You can also filter by [Product Statuses](#product-statuses) and whether or not a Product has been completed or not via the [Upload Status](#product-upload-statuses) dropdown. The reset button will clear the values in the text search fields.
 
 The current value of your text search fields will be saved to your browser for when you log back in.
 
 ## Product Statuses {#product-statuses}
+
+Product Statuses can be selected from the dropdown. They can be: all selected, all deselected or selected indivudally to form a custom set.
+
+![Product Status Dropdown](../../static/img/pages/products/statuses/pw_product_status_dropdown.png)
+
 There are 8 Product statuses within ProperWeb which are:
 
 ### Newly Created
@@ -108,3 +113,6 @@ A Product will have this status when it has been successfully uploaded to Basil 
 
 ![Product Status Completed](../../static/img/pages/products/statuses/pw_product_status_completed.png)
 
+## Product Upload Statuses {#product-upload-statuses}
+
+![Product Upload Status Dropdown](../../static/img/pages/products/pw_products_product_upload_status_dropdown.png)
