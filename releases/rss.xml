@@ -4,10 +4,18 @@
         <title>ProperWeb 2.0 Documentation Blog</title>
         <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases</link>
         <description>ProperWeb 2.0 Documentation Blog</description>
-        <lastBuildDate>Mon, 05 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v2.4.2.0]]></title>
+            <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-4-2-0</link>
+            <guid>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-4-2-0</guid>
+            <pubDate>Tue, 13 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[🚀 New Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🚀 New Features<a href="#-new-features" class="hash-link" aria-label="Direct link to 🚀 New Features" title="Direct link to 🚀 New Features">​</a></h3><ul><li>Custom Supplier Filters for Admin Users</li><li>Ability to Shadow other User's assigned Suppliers for Admin Users</li><li>Contributor Roles Support added to Product Track Listing</li><li>Support for BluRay Regions added to DVD regions field when BluRay format selected</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-requests">✏️ Change Requests<a href="#️-change-requests" class="hash-link" aria-label="Direct link to ✏️ Change Requests" title="Direct link to ✏️ Change Requests">​</a></h3><ul><li>Appearances of Product SKU renamed to Product Catalogue Number/Cat Num</li><li>Checks added to Product Release date and Embargo Date to ensure they are in the future</li><li>Product DVD Fields now mandatory when DVD or Blu ray format selected</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-enhancements">✨ Enhancements<a href="#-enhancements" class="hash-link" aria-label="Direct link to ✨ Enhancements" title="Direct link to ✨ Enhancements">​</a></h3><ul><li>Product Dashboard Filters updated to support multiple selections</li><li>Added sub menu to Announcements for easier browsing when multiple announcements active</li><li>Updates to landing pages (Login/Forgotten Password/Active Account) to consolidate appearance</li><li>Sticky save changes header added to User Details page</li><li>Product Catalogue Number and Barcode need to be verifed by Basil before the product can be uploaded</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fixed format sometimes not displaying on Product Dashboard when 'All Suppliers' wildcard selected</li><li>Fixed stripping of non breaking spaces from Product Editor text areas</li><li>Fixed Proper Codes (Formats/Packages/Forms) order ranking not being persisted after daily API fetch</li><li>Fixed console errors related to real time messaging connections</li><li>Added checks to prevent upload of empty Product Artwork files</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Updated out of date backend libraries</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.4.1.7]]></title>
             <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-4-1-7</link>
