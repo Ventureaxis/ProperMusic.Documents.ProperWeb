@@ -4,10 +4,18 @@
         <title>ProperWeb 2.0 Documentation Blog</title>
         <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases</link>
         <description>ProperWeb 2.0 Documentation Blog</description>
-        <lastBuildDate>Tue, 13 Feb 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Feb 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v2.4.2.1]]></title>
+            <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-4-2-1</link>
+            <guid>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-4-2-1</guid>
+            <pubDate>Thu, 15 Feb 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[🐛 Bug Fixes]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Fixed product release and embargo date not displaying properly in product editor for certain dates</li><li>Fixed draft products not being able to be saved without a format</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.4.2.0]]></title>
             <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-4-2-0</link>
