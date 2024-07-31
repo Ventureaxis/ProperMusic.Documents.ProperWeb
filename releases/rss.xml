@@ -4,10 +4,34 @@
         <title>ProperWeb 2.0 Documentation Blog</title>
         <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases</link>
         <description>ProperWeb 2.0 Documentation Blog</description>
-        <lastBuildDate>Wed, 05 Jun 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v2.5.1.4]]></title>
+            <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-4</link>
+            <guid>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-4</guid>
+            <pubDate>Wed, 24 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[✏️ Change Request]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-request">✏️ Change Request<a href="#️-change-request" class="hash-link" aria-label="Direct link to ✏️ Change Request" title="Direct link to ✏️ Change Request">​</a></h3><ul><li>Add Proper Music Data Protection Policy document pdf</li></ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v2.5.1.3]]></title>
+            <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-3</link>
+            <guid>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-3</guid>
+            <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[🔧 Maintenance]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Adjust sampling settings for Application insights</li><li>Add more logging around Product upload</li></ul>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[v2.5.1.2]]></title>
+            <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-2</link>
+            <guid>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-2</guid>
+            <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[🐛 Bug Fix]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fix">🐛 Bug Fix<a href="#-bug-fix" class="hash-link" aria-label="Direct link to 🐛 Bug Fix" title="Direct link to 🐛 Bug Fix">​</a></h3><ul><li>Add backend cleanup methods for uFEFF character on Product text inputs</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.5.1.1]]></title>
             <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-1</link>
