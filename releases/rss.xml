@@ -4,10 +4,18 @@
         <title>ProperWeb 2.0 Documentation Blog</title>
         <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases</link>
         <description>ProperWeb 2.0 Documentation Blog</description>
-        <lastBuildDate>Wed, 31 Jul 2024 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Dec 2024 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v2.5.1.6]]></title>
+            <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-6</link>
+            <guid>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-6</guid>
+            <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[✏️ Change Request]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-request">✏️ Change Request<a href="#️-change-request" class="hash-link" aria-label="Direct link to ✏️ Change Request" title="Direct link to ✏️ Change Request">​</a></h3><ul><li>Remove Utopia Heartbeat Integration</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.5.1.5]]></title>
             <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-5</link>
