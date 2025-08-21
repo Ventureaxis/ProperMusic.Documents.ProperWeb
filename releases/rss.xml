@@ -4,10 +4,18 @@
         <title>ProperWeb 2.0 Documentation Blog</title>
         <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases</link>
         <description>ProperWeb 2.0 Documentation Blog</description>
-        <lastBuildDate>Tue, 15 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Aug 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[v2.5.2.0]]></title>
+            <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-2-0</link>
+            <guid>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-2-0</guid>
+            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[🚀 New Features]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-new-features">🚀 New Features<a href="#-new-features" class="hash-link" aria-label="Direct link to 🚀 New Features" title="Direct link to 🚀 New Features">​</a></h3><ul><li>Onesheet preview available for standard suppliers</li><li>Product search/import for existing catalogue into proper web</li><li>Compilation toggle - mark track listings as compilations and include artist name in track name</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="️-change-request">✏️ Change Request<a href="#️-change-request" class="hash-link" aria-label="Direct link to ✏️ Change Request" title="Direct link to ✏️ Change Request">​</a></h3><ul><li>Prefix added to deleted users instead of reinstating them</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-bug-fixes">🐛 Bug Fixes<a href="#-bug-fixes" class="hash-link" aria-label="Direct link to 🐛 Bug Fixes" title="Direct link to 🐛 Bug Fixes">​</a></h3><ul><li>Add UTF dictionary to block/replace characters out of user input</li><li>Updated method of calling Basil API so the timezone calculation is correct during BST</li><li>Track contributor roles now mandatory</li></ul><h3 class="anchor anchorWithStickyNavbar_LWe7" id="-maintenance">🔧 Maintenance<a href="#-maintenance" class="hash-link" aria-label="Direct link to 🔧 Maintenance" title="Direct link to 🔧 Maintenance">​</a></h3><ul><li>Restructured client app</li><li>Upgrade to Angular 19</li></ul>]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[v2.5.1.8]]></title>
             <link>https://your-docusaurus-test-site.com/ProperMusic.Documents.ProperWeb/releases/2-5-1-8</link>
