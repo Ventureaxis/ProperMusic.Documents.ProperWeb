@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkpropermusic_documents_properweb=globalThis.webpackChunkpropermusic_documents_properweb||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/ProperMusic.Documents.ProperWeb/releases","blogTitle":"Blog","authorsListPath":"/ProperMusic.Documents.ProperWeb/releases/authors"}')}}]);
