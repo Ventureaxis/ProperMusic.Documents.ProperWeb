@@ -1,8 +1,9 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -22,7 +23,12 @@ const config = {
   projectName: 'propermusic.documents.properweb', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -32,29 +38,42 @@ const config = {
     locales: ['en'],
   },
 
-  // EXTRA Blog if needed
-  // plugins: [
-  //   [
-  //     '@docusaurus/plugin-content-blog',
-  //     {
-  //       /**
-  //        * Required for any multi-instance plugin
-  //        */
-  //       id: 'release-notes',
-  //       /**
-  //        * URL route for the blog section of your site.
-  //        * *DO NOT* include a trailing slash.
-  //        */
-  //       routeBasePath: 'release-notes',
-  //       /**
-  //        * Path to data on filesystem relative to site dir.
-  //        */
-  //       path: './release-notes',
-  //       blogSidebarCount: 'ALL',
-  //       blogSidebarTitle: 'Release Notes'
-  //     },
-  //   ],
-  // ],
+  plugins: [
+    [
+      "@easyops-cn/docusaurus-search-local",
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      {
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        docsRouteBasePath: '/'
+        // For Docs using Chinese, The `language` is recommended to set to:
+        // ```
+        // language: ["en", "zh"],
+        // ```
+      },
+    ],
+    // EXTRA Blog if needed
+    // [
+    //   '@docusaurus/plugin-content-blog',
+    //   {
+    //     /**
+    //      * Required for any multi-instance plugin
+    //      */
+    //     id: 'release-notes',
+    //     /**
+    //      * URL route for the blog section of your site.
+    //      * *DO NOT* include a trailing slash.
+    //      */
+    //     routeBasePath: 'release-notes',
+    //     /**
+    //      * Path to data on filesystem relative to site dir.
+    //      */
+    //     path: './release-notes',
+    //     blogSidebarCount: 'ALL',
+    //     blogSidebarTitle: 'Release Notes'
+    //   },
+    // ],
+  ],
 
   presets: [
     [
@@ -70,6 +89,10 @@ const config = {
           // Remove this to remove the "edit this page" links.
           //editUrl:
             //'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          beforeDefaultRemarkPlugins: [],
+          beforeDefaultRehypePlugins: [],
+          remarkPlugins: [],
+          rehypePlugins: [],
         },
         // Default Blog Overrides
         blog: {
@@ -90,23 +113,7 @@ const config = {
     ],
   ],
 
-  themes: [
-    // ... Your other themes.
-    [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
-        // ... Your options.
-        // `hashed` is recommended as long-term-cache of index file is possible.
-        hashed: true,
-		docsRouteBasePath: '/'
-        // For Docs using Chinese, The `language` is recommended to set to:
-        // ```
-        // language: ["en", "zh"],
-        // ```
-      }),
-    ],
-  ],
+
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */

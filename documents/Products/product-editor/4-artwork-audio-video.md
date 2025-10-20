@@ -20,7 +20,9 @@ Some **fields** have different validation depending on the Supplier class select
 <Tabs groupId="supplier-class">
 	<TabItem value="standard" label="Standard">
 		<ul>
-			<li><strong>Artwork</strong> - a collection of artwork images for the Product
+			<li>
+
+				<strong>Artwork</strong> - a collection of artwork images for the Product
 				<ul>
 					<li>At least one Artwork URL/Image must be present</li>
 				</ul>
