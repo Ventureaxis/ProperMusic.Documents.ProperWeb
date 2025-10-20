@@ -65,7 +65,7 @@ You can also filter by [Product Statuses](#product-statuses) and whether or not 
 
 The current value of your text search fields will be saved to your browser for when you log back in.
 
-## Product Statuses {#product-statuses}
+## Product Statuses
 There are 8 Product statuses within ProperWeb which are:
 
 ### Newly Created

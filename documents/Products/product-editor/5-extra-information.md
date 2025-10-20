@@ -20,7 +20,9 @@ Some **fields** have different validation depending on the Supplier class select
 <Tabs groupId="supplier-class">
 	<TabItem value="standard" label="Standard">
 		<ul>
-			<li><strong>Narrative</strong>
+			<li>
+
+				<strong>Narrative</strong>
 				<ul>
 					<li>Max length is 5120 characters</li>
 				</ul>
@@ -37,17 +39,23 @@ Some **fields** have different validation depending on the Supplier class select
         <li><strong>Export Only</strong> - checkbox to mark whether or not the Product is Export Only</li>
         <li><strong>Indie Exclusive</strong> - checkbox to mark whether or not the Product is Indie Exclusive</li>
         <li><strong>Christmas Title</strong> - checkbox to mark whether or not the Product is a Christmas Title</li>
-        <li><strong>Exclusive For</strong>
+        <li>
+
+        	<strong>Exclusive For</strong>
 			<ul>
 				<li>Max length is 50 characters</li>
 			</ul>
 		</li>
-        <li><strong>Variant</strong>
+        <li>
+
+        	<strong>Variant</strong>
 			<ul>
 				<li>Max length is 50 characters</li>
 			</ul>
 		</li>
-		<li><strong>Marketing Info</strong>
+		<li>
+
+			<strong>Marketing Info</strong>
 			<ul>
 				<li>Max length is 50 characters</li>
 			</ul>
@@ -56,7 +64,9 @@ Some **fields** have different validation depending on the Supplier class select
   </TabItem>
   <TabItem value="third-party" label="Third Party">
     	<ul>
-			<li><strong>Narrative</strong>
+			<li>
+
+				<strong>Narrative</strong>
 				<ul>
 					<li>Max length is 5120 characters</li>
 				</ul>
@@ -64,17 +74,23 @@ Some **fields** have different validation depending on the Supplier class select
 			<li><strong>Export Only</strong> - checkbox to mark whether or not the Product is Export Only</li>
 			<li><strong>Indie Exclusive</strong> - checkbox to mark whether or not the Product is Indie Exclusive</li>
 			<li><strong>Christmas Title</strong> - checkbox to mark whether or not the Product is a Christmas Title</li>
-			<li><strong>Exclusive For</strong>
+			<li>
+
+				<strong>Exclusive For</strong>
 				<ul>
 					<li>Max length is 50 characters</li>
 				</ul>
 			</li>
-			<li><strong>Variant</strong>
+			<li>
+
+				<strong>Variant</strong>
 				<ul>
 					<li>Max length is 50 characters</li>
 				</ul>
 			</li>
-			<li><strong>Marketing Info</strong>
+			<li>
+
+				<strong>Marketing Info</strong>
 				<ul>
 					<li>Max length is 50 characters</li>
 				</ul>

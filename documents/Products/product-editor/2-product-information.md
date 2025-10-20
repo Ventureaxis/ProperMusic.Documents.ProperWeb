@@ -21,40 +21,50 @@ Some **fields** have different validation depending on the Supplier class select
 <Tabs groupId="supplier-class">
   <TabItem value="standard" label="Standard">
     <ul>
-        <li><strong>Catalogue Number</strong> - a unique identifier
+        <li>
+			<strong>Catalogue Number</strong> - a unique identifier
 			<ul>
 				<li>Maximum of 31 characters</li>
 				<li>Only uppercase characters, numbers, dashes(-) and underscores (_) are allowed</li>
 				<li>Needs to be verified by Basil</li>
 			</ul>
 		</li>
-        <li><strong>Barcode</strong> - a unique identifier
+        <li>
+			<strong>Barcode</strong> - a unique identifier
 			<ul>
 				<li>Needs to be in the right format</li>
 				<li>13 Characters for EAN, 12 Characters for UPC</li>
 				<li>Needs to be verified by Basil</li>
 			</ul>
 		</li>
-        <li><strong>Full Artist</strong> - full Artist name
+        <li>
+
+        	<strong>Full Artist</strong> - full Artist name
 			<ul>
 				<li>Max length: 300 characters</li>
 				<li>Auto fills Artist field with uppercase version when input is changed</li>
 			</ul>
 		</li>
-        <li><strong>Full Title</strong> - full Title name
+        <li>
+
+        	<strong>Full Title</strong> - full Title name
 			<ul>
 				<li>Max length: 300 characters</li>
 				<li>Auto fills Title field with uppercase version when input is changed</li>
 			</ul>
 		</li>
-		<li><strong>Artist</strong> - the Artist short text
+		<li>
+
+			<strong>Artist</strong> - the Artist short text
             <ul>
                 <li>Max length: 30 characters</li>
                 <li>Input is automatically converted into uppercase</li>
                 <li>Autofilled when typing in Full Artist field</li>
             </ul>
         </li>
-		<li><strong>Title</strong> - the Title short text
+		<li>
+
+			<strong>Title</strong> - the Title short text
 			<ul>
                 <li>Max length: 30 characters</li>
                 <li>Input is automatically converted into uppercase</li>
@@ -70,40 +80,52 @@ Some **fields** have different validation depending on the Supplier class select
   </TabItem>
   <TabItem value="third-party" label="Third Party">
     <ul>
-        <li><strong>Catalogue Number</strong> - a unique identifier
+        <li>
+
+        	<strong>Catalogue Number</strong> - a unique identifier
 			<ul>
 				<li>Maximum of 31 characters</li>
 				<li>Only uppercase characters, numbers, dashes(-) and underscores (_) are allowed</li>
 				<li>Needs to be verified by Basil</li>
 			</ul>
 		</li>
-        <li><strong>Barcode</strong> - a unique identifier
+        <li>
+
+        	<strong>Barcode</strong> - a unique identifier
 			<ul>
 				<li>Needs to be in the right format</li>
 				<li>13 Characters for EAN, 12 Characters for UPC</li>
 				<li>Needs to be verified by Basil</li>
 			</ul>
 		</li>
-        <li><strong>Full Artist</strong> - full Artist name
+        <li>
+
+        	<strong>Full Artist</strong> - full Artist name
 			<ul>
 				<li>Max length: 300 characters</li>
 				<li>Auto fills Artist field with uppercase version when input is changed</li>
 			</ul>
 		</li>
-        <li><strong>Full Title</strong> - full Title name
+        <li>
+
+        	<strong>Full Title</strong> - full Title name
 			<ul>
 				<li>Max length: 300 characters</li>
 				<li>Auto fills Title field with uppercase version when input is changed</li>
 			</ul>
 		</li>
-		<li><strong>Artist</strong> - the Artist short text
+		<li>
+
+			<strong>Artist</strong> - the Artist short text
             <ul>
                 <li>Max length: 30 characters</li>
                 <li>Input is automatically converted into uppercase</li>
                 <li>Autofilled when typing in Full Artist field</li>
             </ul>
         </li>
-		<li><strong>Title</strong> - the Title short text
+		<li>
+
+			<strong>Title</strong> - the Title short text
 			<ul>
                 <li>Max length: 30 characters</li>
                 <li>Input is automatically converted into uppercase</li>
@@ -131,7 +153,9 @@ Some **fields** have different validation depending on the Supplier class select
   </TabItem>
   <TabItem value="third-party" label="Third Party">
     <ul>
-        <li><strong>Artist</strong> - the Artist short text
+        <li>
+
+        	<strong>Artist</strong> - the Artist short text
             <ul>
                 <li>Max length: 30 characters</li>
                 <li>Input is automatically converted into uppercase</li>
